@@ -1,0 +1,35 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/javaLogo.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/mysql2.png"
+  },
+  {
+    "title": "Spring boot",
+    "imageSrc": "skills/bootLogo.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sqlLogo.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws2.png"
+  }
+
+]

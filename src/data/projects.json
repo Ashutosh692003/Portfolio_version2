@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Integrated Eligibility System",
+    "imageSrc": "projects/project.png",
+    "description": "This a portal application for providing  government schemes eligibility certification facility ",
+    "skills": ["React", "Springboot", "MySql"],
+    "demo": "https://github.com/Ashutosh692003/IES_UI.git",
+    "source": "https://github.com/Ashutosh692003/IES_UI.git"
+  },
+  {
+    "title": "Front Office Management System",
+    "imageSrc": "projects/frontdesk.png",
+    "description": "This is application for educational institutes to handle its frontoffice activities.",
+    "skills": ["Thymeleaf", "MVC", "Springboot", "MySql"],
+    "demo":"https://github.com/Ashutosh692003/Front-Office-Management-Project.git",
+    "source": "https://github.com/Ashutosh692003/Front-Office-Management-Project.git"
+  },
+  {
+    "title": "Blog Application",
+    "imageSrc": "projects/blogImage.webp",
+    "description": "This is public blog platform peoples can read and post blogs.",
+    "skills": ["Thymeleaf", "MVC", "Springboot", "MySql"],
+    "demo": "https://github.com/Ashutosh692003/Blog_Application.git",
+    "source": "https://github.com/Ashutosh692003/Blog_Application.git"
+  }
+]
