@@ -10,7 +10,7 @@ const Navbar = () =>{
                               <img src={ menuOpen ? getImageUrl("nav/closeIcon.png"):getImageUrl("nav/menuIcon.png")} alt="menu-button"  className={styles.menuBtn} onClick={()=>setMenuOpen(!menuOpen)}/>
                                <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} onClick={()=> setMenuOpen(false)} >
                                    <li><a href="#about">About</a></li>
-                                   <li><a href="#skill">Experience</a></li>
+                                   <li><a href="#skill">Skills</a></li>
                                    <li>
                                     <a href="#project">Projects</a>
                                    </li>
